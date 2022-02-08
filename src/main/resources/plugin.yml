@@ -1,0 +1,8 @@
+name: teleport-bow-plugin
+version: 1.0.0
+api-version: 1.17
+main: org.example.teleport_bow.Main
+commands:
+  bow:
+    description: Создает teleport-bow
+    usage: /<command>
